@@ -12,7 +12,7 @@ This repository contains three important files: The HTML code for your first web
 
 You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+<p>Hello World! I’m mabschris. This is my website!</p>(https://help.github.com/en/articles/about-readmes)
 
 ## Your first website
 
@@ -32,7 +32,7 @@ Under the **Repository Name** heading, type: `username.github.io`, where usernam
 
 <img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
+Once you click **Rename**, your website will automatically be published at: https://mabschris.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
 
@@ -59,11 +59,7 @@ To add your introduction, copy our template and click the edit pencil icon at th
 
 Delete this placeholder line:
 
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
 
-Then, paste the template to line 15 and fill in the blanks.
 
 <img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
 
